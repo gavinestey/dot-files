@@ -1,0 +1,11 @@
+font-iosevka
+slack
+diffmerge
+itsycal
+sonos
+dropbox
+textmate
+keepingyouawake
+firefox
+flycut
+moom

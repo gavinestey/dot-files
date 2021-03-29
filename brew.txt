@@ -1,0 +1,15 @@
+contentful-cli
+coreutils
+datamash
+findutils
+fpp
+fzf
+git
+gron
+jq
+moreutils
+mtr
+ripgrep
+watch
+xmlstarlet
+xsv
